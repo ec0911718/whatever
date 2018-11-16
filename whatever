@@ -1,0 +1,8 @@
+public class whatever
+{
+  public static void main (String [] args)
+  {
+    int what = 5
+    System.out.println(what);
+  }
+}
